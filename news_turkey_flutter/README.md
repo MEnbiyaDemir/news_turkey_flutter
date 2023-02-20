@@ -1,16 +1,5 @@
-# untitled
+Small Flutter APP for Turkiye News
 
-A new Flutter project.
+I used Bloc state management library and News API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/73945604/220101431-7e2d763f-cd4d-4728-b8f5-93c2e9d9ccea.png)
